@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hi there , I'm Eslam 👋👨‍💻
 - 🌱 I’m currently learning Data Analytics and Data Science
 - 🤔 I’m looking for help with Data Science projects recommendations
+
+
+
+- Sharing updates on <a href="https://www.linkedin.com/in/eslammohamed95/">LinkedIn</a> 💼
 <!--
 **EslamMohamed95/EslamMohamed95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
