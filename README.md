@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Deep Learning , Machine Learning , and NLP**
 
-- 👨‍💻 All of my projects are available at [https://github.com/EslamMohamed95](https://github.com/EslamMohamed95)
-
 - 📫 How to reach me **islam.zanaty95@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
