@@ -4,12 +4,10 @@
 <a href="https://www.linkedin.com/in/eslammohamed95/"><img src="https://img.shields.io/badge/-Eslam%20Mohamed%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:islam.zanaty95@hotmail.com"><img src="https://img.shields.io/badge/-islam.zanaty95@hotmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.kaggle.com/eslaammoohamed95"><img src="https://img.shields.io/badge/Kaggle-0088cc?style=flat&logo=kaggle" alt="Kaggle" /></a>
-
 </p>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=eslammohamed95&label=Profile%20views&color=0e75b6&style=flat" alt="eslammohamed95" /> </p>
 
-<h3>About me</h3>
 
 ✔ I’m currently working as Software Engineer with 2+ years of experience <br>
 ✔ I’m focusing on developing and practicing case-based **Deep Learning** and **Machine Learning** projects 🥰 <br>
@@ -19,7 +17,8 @@
 <br>
 
 
-<h3> My Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h3>
+## 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px>
+
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
