@@ -11,15 +11,17 @@
 
 🎓 B.Sc. in Mechatronics and Robotics Engineering from Ain Shams University.<br>
 
-💻 Passionate Software Engineer with over 4 years of experience, specializing in Backend Development with a good background at Data Science. <br>
+💻 Passionate Software Engineer with over 4 years of experience, specializing in Backend Development with a good background in Data Science. <br>
 
-🚀 Currently enhancing software performance and security as a Software Engineer Specialist using Java and Spring Boot.Integrating technologies like MySQL, MongoDB, and Kafka for a scalable and secure system.<br>
+🚀 Currently enhancing software performance and security as a Software Engineer Specialist using Java and Spring Boot.<be> 
 
-📈 Experienced in developing machine learning models and training pipelines with Python and PyTorch. From predictive models to object detection, I thrive on solving complex problems with innovative solutions.<br>
+🔧 Integrating technologies like MySQL, MongoDB, and Kafka for a scalable and secure system.<br>
 
-🔧 Skilled in designing robust and maintainable software , optimizing applications for speed and scalability, and ensuring seamless integration of various technologies.
+📈 Experienced in developing and training machine learning models. I excel at tackling intricate challenges with creative solutions, from predictive models to object detection.<br>
 
-🔍 Always exploring the latest in software architecture and MLOps to deliver cutting-edge solutions.
+🔧 Skilled in designing robust and maintainable software, optimizing applications for speed and scalability, and ensuring seamless integration of various technologies.
+
+🔍 Always exploring the latest in the Software Industry to deliver cutting-edge solutions.
 
 <br>
 <br>
