@@ -4,7 +4,6 @@
 
 <p>
 <a href="https://www.linkedin.com/in/eslammohamed95/"><img src="https://img.shields.io/badge/LinkedIn-Eslam%20Mohamed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.kaggle.com/eslaammoohamed95"><img src="https://img.shields.io/badge/Kaggle-eslaammoohamed95-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 <a href="mailto:eslam.mzanaty@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
@@ -50,11 +49,6 @@ Lately I'm also deep into lab integration, getting analyzers talking to LIS syst
 
 **DevOps & tools**<br>
 <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,grafana,gitlab,git" />
-
-## 📚 Things I've built
-
-- [**machinelearning-from-scratch**](https://github.com/EslamMohamed95/machinelearning-from-scratch): classic ML algorithms written by hand, to really understand what's going on under the hood.
-- [**deep-learning-from-scratch**](https://github.com/EslamMohamed95/deep-learning-from-scratch): neural networks built from the ground up.
 
 ## 📈 On GitHub
 
