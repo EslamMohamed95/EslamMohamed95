@@ -19,9 +19,9 @@ I studied Mechatronics and Robotics Engineering at Ain Shams University, and hon
 
 Over **6 years** later, I'm a backend engineer. These days I spend my time making Java and Spring Boot systems faster and safer, usually with Kafka, MySQL and MongoDB somewhere in the mix. I like the unglamorous work that keeps a system calm when traffic isn't.
 
-I never let go of data science, either. I've trained models for everything from predictions to object detection, and that background still shapes how I think about problems.
+I never let go of data science, either. it still shapes how I think about problems , I'm obsessed with how AI agents and tools like MCP are changing the way we build software.
 
-Lately I'm also deep into lab integration, getting analyzers talking to LIS systems through gateways, and I'm a bit obsessed with how AI agents and tools like MCP are changing the way we build software.
+Lately I'm trying to build and ships apps that increases my productivity on a side and on the others side I'm engaging with the market to expore more problems we can solve by building SaaS to make a better world out there 🙂
 
 ## 🧠 What you should know about me
 
